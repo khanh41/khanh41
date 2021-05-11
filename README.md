@@ -23,7 +23,7 @@ Hi, I'm [Khánh](https://twitter.com/TrnVnKh23485720), a passionate self-taught 
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@khanhpluto](https://twitter.com/TrnVnKh23485720);
-- 📝 [Resume](https://drive.google.com/file/d/1RULPGriqJzKMoh62BTZ15b7P2rAswn_q/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1Ps_K1rw4SY9amdNmc1nRMjLxPCBvQZhx/view?usp=sharing)
 
 **Languages and Tools:**  
 
