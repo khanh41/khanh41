@@ -5,7 +5,7 @@
 <a href="https://twitter.com/TrnVnKh23485720">
   <img align="left" alt="Khánh Pluto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kh%C3%A1nh-v%C4%83n-78a2041a0/">
+<a href="https://www.linkedin.com/in/kh%C3%A1nh-pluto-78a2041a0/">
   <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31hhouuwz65y7cr3falakxsph3pu">
