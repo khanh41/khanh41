@@ -1,22 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://facebook.com/tranvankhanh.41">
-  <img align="left" alt="Pluto's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <a href="https://twitter.com/TrnVnKh23485720">
   <img align="left" alt="Khánh Pluto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kh%C3%A1nh-pluto-78a2041a0/">
   <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31hhouuwz65y7cr3falakxsph3pu">
-  <img align="left" alt="Pluto's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=khanh41.khanh41)
 
 <br />
 
-Hi, I'm [Khánh](https://twitter.com/TrnVnKh23485720), a passionate self-taught AI Engineer and DevOps from Vietnam. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
+Hi, I'm [Khánh](https://twitter.com/KhanhPluto), a passionate self-taught AI Engineer and DevOps from Vietnam. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
