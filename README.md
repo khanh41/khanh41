@@ -1,23 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/TrnVnKh23485720">
-  <img align="left" alt="Khánh Pluto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kh%C3%A1nh-pluto-78a2041a0/">
-  <img align="left" alt="Khánh Pluto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=khanh41.khanh41)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkhanh41&countColor=%23263759)
 
-<br />
-
-Hi, I'm [Khánh](https://twitter.com/KhanhPluto), a passionate self-taught AI Engineer and DevOps from Vietnam. I always want build the AI systems to help people in the world: mentality, medical, science,... 🌸. 
-
+Over 3 years of experience in Software development, AI, ML, Deep Learning. Strong background in programming languages like C++ and Python, and proficient in using Tensorflow and Pytorch frameworks. Additionally, have experience in model and system optimization, as well as expertise in AWS, data engineering, and MLOps.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@khanhpluto](https://twitter.com/TrnVnKh23485720);
-- 📝 [Resume](https://drive.google.com/file/d/1Ps_K1rw4SY9amdNmc1nRMjLxPCBvQZhx/view?usp=sharing)
+- 📫 How to reach me: [@khanhpluto](https://www.linkedin.com/in/kh%C3%A1nh-pluto-78a2041a0);
+- 📝 [Resume](https://drive.google.com/file/d/1ndtc5oG_BUbkWzWz3K3OfC3DJTMH33kX/view?usp=drive_link)
 
 **Languages and Tools:**  
 
